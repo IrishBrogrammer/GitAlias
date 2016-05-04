@@ -1,0 +1,4 @@
+[alias]
+addall = add --all
+
+cm = commit -m
