@@ -1,0 +1,13 @@
+{
+	"files.exclude": {
+		"**/*.meta" : true,
+		"**/*.prefab" : true,
+		"**/*.unity" : true
+	},
+	
+	"search.exclude": {
+		"**/*.meta" : true,
+		"**/*.prefab" : true,
+		"**/*.unity" : true
+	}
+}
